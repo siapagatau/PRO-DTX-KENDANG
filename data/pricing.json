@@ -1,0 +1,17 @@
+{
+  "badge": "Resmi di Google Play",
+  "priceText": "Cek harga di Play Store",
+  "priceNote": "Harga bisa berbeda tiap negara dan bisa berubah. Harga terbaru selalu tertera di halaman Play Store.",
+  "benefits": [
+    "Semua fitur pad, preset, GLER, dan rekaman",
+    "Dua tampilan pad",
+    "Pembayaran aman lewat Google Play",
+    "Pembaruan aplikasi lewat Play Store"
+  ],
+  "steps": [
+    "Klik tombol Beli di Play Store",
+    "Selesaikan pembayaran di Google Play",
+    "Buka aplikasi dan mulai menabuh"
+  ],
+  "buyLabel": "Beli di Play Store"
+}

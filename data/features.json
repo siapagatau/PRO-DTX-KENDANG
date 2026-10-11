@@ -1,0 +1,8 @@
+[
+  { "icon": "pad", "title": "Pad Kendang Responsif", "text": "Pad besar yang peka sentuhan, dengan layout ala drum pad elektrik. Tap cepat pun tetap akurat." },
+  { "icon": "preset", "title": "Preset P1, P2, dan Seterusnya", "text": "Simpan susunan pad favoritmu ke banyak preset, lalu ganti dalam satu tap saat tampil." },
+  { "icon": "gler", "title": "Efek GLER", "text": "Tambahkan efek GLER khas untuk aksen dramatis di tengah permainan." },
+  { "icon": "rec", "title": "Rekam Permainan", "text": "Rekam tabuhanmu, putar ulang, dan dengarkan lagi untuk evaluasi atau konten." },
+  { "icon": "music", "title": "Putar Musik Pengiring", "text": "Mainkan kendang sambil memutar musik. Atur volume pad dan musik terpisah." },
+  { "icon": "theme", "title": "Dua Tampilan Pad", "text": "Pilih gaya pad yang kamu suka, dari tampilan gelap klasik sampai nuansa oranye menyala." }
+]

@@ -1,0 +1,60 @@
+{
+  "appName": "PRO DTX PAD",
+  "appSubtitle": "Kendang Elektrik",
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.dtxpads.kendang.premium",
+  "hero": {
+    "eyebrow": "Aplikasi Android • Berbayar • Sekali beli",
+    "titleLine1": "PRO DTX PAD",
+    "titleLine2": "KENDANG ELEKTRIK",
+    "tagline": "Main kendang langsung dari Android. Pad responsif, preset siap tampil, efek GLER, dan rekaman, semua di genggamanmu.",
+    "buyLabel": "Beli di Play Store",
+    "secondaryLabel": "Lihat Fitur",
+    "stats": [
+      { "value": "2", "label": "Tema pad" },
+      { "value": "GLER", "label": "Efek khas" },
+      { "value": "REC", "label": "Rekam langsung" }
+    ]
+  },
+  "sections": {
+    "features": { "eyebrow": "Fitur Unggulan", "title": "Satu aplikasi, satu panggung", "sub": "Semua yang kamu butuhkan buat main kendang digital, tanpa ribet." },
+    "gallery": { "eyebrow": "Tampilan Aplikasi", "title": "Lihat langsung isinya", "sub": "Dua tampilan pad dengan nuansa perangkat drum elektrik sungguhan." },
+    "demo": { "eyebrow": "Coba Dulu", "title": "Tap pad, rasakan getarnya", "sub": "Ini simulasi singkat di browser. Suara asli kendang di aplikasi jauh lebih kaya." },
+    "why": { "eyebrow": "Kenapa PRO DTX PAD", "title": "Dibuat buat yang serius main", "sub": "Bukan sekadar aplikasi iseng. Dibuat supaya nyaman dipakai latihan sampai tampil." },
+    "pricing": { "eyebrow": "Harga & Cara Beli", "title": "Sekali beli, langsung main", "sub": "Pembayaran lewat Google Play, aman dan resmi." },
+    "faq": { "eyebrow": "FAQ", "title": "Pertanyaan yang sering muncul", "sub": "" }
+  },
+  "cta": {
+    "title": "Siap menabuh?",
+    "text": "Unduh PRO DTX PAD sekarang dan ubah HP-mu jadi pad kendang elektrik.",
+    "label": "Beli di Play Store"
+  },
+  "footer": {
+    "about": "PRO DTX PAD adalah aplikasi pad kendang elektrik untuk Android. Dibuat untuk pemusik, pelajar, dan siapa pun yang suka menabuh.",
+    "contactLabel": "Hubungi via WhatsApp",
+    "contactUrl": "https://wa.me/6288216335309",
+    "links": [
+      { "label": "Play Store", "url": "https://play.google.com/store/apps/details?id=com.dtxpads.kendang.premium" },
+      { "label": "WhatsApp", "url": "https://wa.me/6288216335309" }
+    ],
+    "credit": "Dibuat oleh REL",
+    "year": "2026"
+  },
+  "seo": {
+    "title": "PRO DTX PAD – Kendang Elektrik untuk Android",
+    "description": "Main kendang langsung dari Android. Pad kendang digital dengan preset, efek GLER, dan rekaman. Beli di Google Play Store."
+  },
+  "theme": {
+    "sky": "#1e9bff",
+    "skyDeep": "#0a3a6b",
+    "ink": "#121316",
+    "pad": "#1d1e22",
+    "accent": "#ff8a1f",
+    "accent2": "#ffc233",
+    "grass": "#46c239",
+    "paper": "#ffffff"
+  },
+  "assets": {
+    "background": "assets/backgrounds/bg-main.jpg",
+    "poster": "assets/ui/poster.jpg"
+  }
+}
